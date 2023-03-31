@@ -1,4 +1,6 @@
-# SuperMario
+# MarioGPT
+Waiting on OpenAI to make the GPT-4 API Multimodal :}
+
 A improved supermario game based on https://github.com/justinmeister/Mario-Level-1.
 * support four levels：level 1-1 to level 1-4 
 * support go into the pipe
@@ -8,7 +10,7 @@ A improved supermario game based on https://github.com/justinmeister/Mario-Level
 
 # Requirement
 * Python 3.7
-* Python-Pygame 1.9
+$ pip3 install -r requirements.txt
 
 # How To Start Game
 $ python main.py

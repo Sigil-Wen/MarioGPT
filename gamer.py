@@ -1,0 +1,1 @@
+# I realised the GPT-4 API doesn't yet support images
